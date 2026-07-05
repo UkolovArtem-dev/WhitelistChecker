@@ -18,8 +18,6 @@
   <img src="https://raw.githubusercontent.com/UkolovArtem-dev/WhitelistChecker/refs/heads/main/assets/screenshots/photo_2026-07-05_13-11-49.jpg" width="200">
 </div>
 
-*Примечание: Замените ссылки выше на реальные скриншоты после их загрузки в репозиторий.*
-
 ---
 
 ## 🛠 Ключевые возможности
