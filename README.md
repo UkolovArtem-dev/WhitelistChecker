@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/UkolovArtem-dev/WhitelistChecker/refs/heads/main/assets/logo.png" width="120" height="120" style="border-radius: 24px">
   <h1>Whitelist Checker (Проверка ограничений интернета)</h1>
 
