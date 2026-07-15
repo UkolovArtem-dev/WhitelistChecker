@@ -5,7 +5,7 @@
 **Whitelist Checker** — Приложение для Android, предназначенное для автоматического мониторинга сетевого соединения на наличие ограничений провайдеров, а также их обхода через интеграцию со сторонними VPN-приложениями.
 </div>
 <div align="center">
-  Рекомендуется использовать в связке с <a href="https://github.com/okhsunrog/vpnhide">VPN hide<a>
+  Рекомендуется использовать в связке с <a href="https://github.com/okhsunrog/vpnhide" target="_blank">VPN hide<a>
 </div>
 ---
 
