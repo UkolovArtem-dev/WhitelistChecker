@@ -7,6 +7,7 @@
 <div align="center">
   Рекомендуется использовать в связке с <a href="https://github.com/okhsunrog/vpnhide" target="_blank">VPN hide<a>
 </div>
+    
 ---
 
 ## 📸 Скриншоты
