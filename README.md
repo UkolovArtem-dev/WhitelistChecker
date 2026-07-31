@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/UkolovArtem-dev/WhitelistChecker/refs/heads/main/assets/screenshots/Screenshot_20260731-082347_VPNspeed.png" width="200">
   <img src="https://raw.githubusercontent.com/UkolovArtem-dev/WhitelistChecker/refs/heads/main/assets/screenshots/Screenshot_20260731-084930_Whitelist%20Checker.png" width="200">
   <img src="https://raw.githubusercontent.com/UkolovArtem-dev/WhitelistChecker/refs/heads/main/assets/screenshots/Screenshot_20260731-082318_Whitelist%20Checker.png" width="200">
-  <img src="https://raw.githubusercontent.com/UkolovArtem-dev/WhitelistChecker/refs/heads/main/assets/screenshots/photo_2026-07-05_13-11-56.jpg" width="200">
+  <img src="https://raw.githubusercontent.com/UkolovArtem-dev/WhitelistChecker/refs/heads/main/assets/screenshots/Screenshot_20260731-084942_Whitelist%20Checker.png" width="200">
   <img src="https://raw.githubusercontent.com/UkolovArtem-dev/WhitelistChecker/refs/heads/main/assets/screenshots/photo_2026-07-05_13-11-49.jpg" width="200">
 </div>
 
