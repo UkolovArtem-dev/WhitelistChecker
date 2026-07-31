@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/UkolovArtem-dev/WhitelistChecker/refs/heads/main/assets/ic_launcher-playstore.png" width="120" height="120" style="border-radius: 50px">
   <h1>Whitelist Checker (Проверка ограничений интернета)</h1>
 
-**Whitelist Checker** — Приложение для Android, предназначенное для автоматического мониторинга сетевого соединения на наличие ограничений провайдеров, а также их обхода через интеграцию со сторонними VPN-приложениями.
+**Whitelist Checker** — Приложение для Android, предназначенное для автоматического обнаружения ограничений интернета в виде белых списков или шейпа, а также их обхода через интеграцию со сторонними VPN-приложениями.
 </div>
 <div align="center">
   Рекомендуется использовать в связке с <a href="https://github.com/okhsunrog/vpnhide" target="_blank">VPN hide<a>
